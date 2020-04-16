@@ -1,5 +1,4 @@
 var http = require("http");
-
 function onRequest(request, response){
     console.log("Request has come to "+ request.url);
     response.writeHead(200, {"context-type": "text/plain"});
