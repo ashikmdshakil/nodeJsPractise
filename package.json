@@ -6,7 +6,8 @@
   "dependencies": {
     "connect": "^3.7.0",
     "ejs": "^3.0.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {},
   "scripts": {
